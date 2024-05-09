@@ -1,5 +1,5 @@
 server:
-  port: 7090
+  port: 7070
 
 spring:
   application:
@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/crhistianchuqui03/pas0.1.git # ruta del repositorio git
+          uri: https://github.com/AlexCoilaJrt/DAD-2024-G1.git # ruta del repositorio git
           searchPaths: config-data
           #username:
           #password:
